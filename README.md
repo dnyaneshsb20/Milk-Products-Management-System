@@ -44,23 +44,24 @@ With this software:
 
 | Admin Login Page | Home Page |
 | --- | --- |
-| ![Admin Login](admin-login.png) | ![Home Page](link-to-image) |
+| ![Admin Login](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/admin-login.png) | ![Home Page](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/home.png) |
 
 | Manage Product | Manage Category |
 | --- | --- |
-| ![Manage Product](link-to-image) | ![Manage Category](link-to-image) |
+| ![Manage Product](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/manage-product.png) | ![Manage Category](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/manage-category.png) |
 
 | Generate Bill | Invoice |
 | --- | --- |
-| ![Generate Bill](link-to-image) | ![Invoice](link-to-image) |
+| ![Generate Bill](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/generate-bill.png) | ![Invoice](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/invoice.png) |
 
 | Bill | Reports |
 | --- | --- |
-| ![Bill](link-to-image) | ![Reports](link-to-image) |
+| ![Bill](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/bill.png) | ![Reports](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/reports.png) |
 
 | Change Username | Change Password |
 | --- | --- |
-| ![Change Username](link-to-image) | ![Change Password](link-to-image) |
+| ![Change Username](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/change-username.png) | ![Change Password](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/change-password.png) |
+
 
 ---
 
