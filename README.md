@@ -65,4 +65,7 @@ With this software:
 
 ---
 
-<center>© 2024 Dnyanesh Badave | Milk Products Management System </center>
+<div align="center">
+© 2024 Dnyanesh Badave | Milk Products Management System
+</div>
+
