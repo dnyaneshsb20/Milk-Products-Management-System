@@ -44,7 +44,7 @@ With this software:
 
 | Admin Login Page | Home Page |
 | --- | --- |
-| ![Admin Login](link-to-image) | ![Home Page](link-to-image) |
+| ![Admin Login](admin-login.png) | ![Home Page](link-to-image) |
 
 | Manage Product | Manage Category |
 | --- | --- |
