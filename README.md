@@ -56,7 +56,7 @@ With this software:
 
 | Bill | Reports |
 | --- | --- |
-| ![Bill](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/bill.png) | ![Reports](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/reports.png) |
+| ![Bill](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/bill.jpg) | ![Reports](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/reports.png) |
 
 | Change Username | Change Password |
 | --- | --- |
