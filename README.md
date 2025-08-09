@@ -44,15 +44,15 @@ With this software:
 
 | Admin Login Page | Home Page |
 | --- | --- |
-| ![Admin Login](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/admin-login.png) | ![Home Page](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/home.png) |
+| ![Admin Login](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/adminlogin.png) | ![Home Page](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/homepage.png) |
 
 | Manage Product | Manage Category |
 | --- | --- |
-| ![Manage Product](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/manage-product.png) | ![Manage Category](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/manage-category.png) |
+| ![Manage Product](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/manageproduct.png) | ![Manage Category](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/managecategory.png) |
 
 | Generate Bill | Invoice |
 | --- | --- |
-| ![Generate Bill](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/generate-bill.png) | ![Invoice](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/invoice.png) |
+| ![Generate Bill](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/generatebill.png) | ![Invoice](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/invoice.png) |
 
 | Bill | Reports |
 | --- | --- |
@@ -60,7 +60,7 @@ With this software:
 
 | Change Username | Change Password |
 | --- | --- |
-| ![Change Username](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/change-username.png) | ![Change Password](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/change-password.png) |
+| ![Change Username](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/changeusername.png) | ![Change Password](https://raw.githubusercontent.com/dnyaneshsb20/Milk-Products-Management-System/main/changepassword.png) |
 
 
 ---
